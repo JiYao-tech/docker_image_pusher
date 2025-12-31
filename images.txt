@@ -1,1 +1,1 @@
-nginx:stable-alpine
+node:lts-alpine
