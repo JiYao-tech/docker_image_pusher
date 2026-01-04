@@ -1,3 +1,4 @@
 node:lts-alpine
 nginx:stable-alpine
 wcjiang/linux-command
+docker.io/jc21/nginx-proxy-manager:latest
