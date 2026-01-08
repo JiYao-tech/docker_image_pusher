@@ -3,4 +3,4 @@ nginx:stable-alpine
 wcjiang/linux-command
 docker.io/jc21/nginx-proxy-manager:latest
 uozi/nginx-ui:latest
-openjdk:8-jre-alpine
+openjdk:8-jre-slim
