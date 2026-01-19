@@ -5,8 +5,4 @@ docker.io/jc21/nginx-proxy-manager:latest
 uozi/nginx-ui:latest
 eclipse-temurin:8-jre-alpine
 eclipse-temurin:8-jre
-openjdk:8-jdk
-openjdk:8-jre
-penjdk:8-jdk-slim
-openjdk:8-jre-slim
-openjdk:8-jdk-alpine
+openjdk:8-jdk-centos7
