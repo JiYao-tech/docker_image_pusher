@@ -9,3 +9,4 @@ gradle:6.1.1-jdk8
 amazoncorretto:8u332-alpine3.14-jre
 node:18-alpine3.18
 node:lts-alpine3.14
+node:22-alpine
