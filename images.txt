@@ -1,1 +1,1 @@
-python:3.10-slim
+zhongbai233/tomato-novel-downloader-webui:latest
